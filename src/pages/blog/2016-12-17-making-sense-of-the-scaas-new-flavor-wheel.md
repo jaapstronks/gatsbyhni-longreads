@@ -13,7 +13,7 @@ description: Het Nieuwe Instituut vraagt uiteenlopende ontwerpers, kunstenaars
   hebzuchtige ‘beschaving’ die ervoor gezorgd heeft dat de belangrijke notie van
   birth met al haar implicaties wereldwijd verwaarloosd wordt. Ze biedt sociale,
   culturele, politieke, ecologische en spirituele alternatieven.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/tabitarezaire_sugarwallsteardom_2016_stillhr10.jpeg
 tags:
   - flavor
