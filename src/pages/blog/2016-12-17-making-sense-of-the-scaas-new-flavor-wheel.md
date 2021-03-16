@@ -1,33 +1,40 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Baarmoederecologie – Dekoloniale geboorte
 date: 2016-12-17T15:04:10.000Z
+description: Het Nieuwe Instituut vraagt uiteenlopende ontwerpers, kunstenaars
+  en onderzoekers om inspirerende projecten op het gebied van de dekolonisering
+  van de ontwerpwereld en racial justice te delen. Ze worden uitgenodigd hun
+  eigen visie in een essay, audiogesprek of video te verwoorden en te
+  verbeelden. In haar bijdrage gaat kunstenaar, priester, genezer en tech-expert
+  Tabita Rezaire in op de geboorte als scheppingskunst par excellence, als
+  universele oertechnologie. Het essay is een gedachteoefening waarmee Rezaire
+  de daad van baren en geboren worden herovert op de patriarchale, koloniale en
+  hebzuchtige ‘beschaving’ die ervoor gezorgd heeft dat de belangrijke notie van
+  birth met al haar implicaties wereldwijd verwaarloosd wordt. Ze biedt sociale,
+  culturele, politieke, ecologische en spirituele alternatieven.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/tabitarezaire_sugarwallsteardom_2016_stillhr10.jpeg
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/tabitarezaire_sugarwallsteardom_2016_stillhr10.jpeg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+We zijn een beschaving geworden die niet weet hoe ze moet baren of geboren moet worden. Net zo min als dat we weten hoe we zouden moeten sterven. We gaan het liefst voorbij aan beide uitersten van het leven of zijn er zelfs bang voor, terwijl deze drempels van het bestaan machtige mogelijkheden vertegenwoordigen. We hebben nog veel over het leven te leren, bijvoorbeeld door ons te verdiepen in het complexe, goddelijke proces van de geboorte.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Hier zijn een paar inkijkjes in de sociale, culturele, politieke, ecologische en spirituele aspecten van de notie van *birth*: gedachten over waarom geboorte er niet alleen toe doet voor vrouwen, voor moeders, maar voor ons allemaal. We worden allemaal geboren. We brengen elkaar allemaal voort.
 
-## What the updates mean to you
+## Bacteriologie
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+We hebben in ons lichaam meer bacteriën dan menselijke cellen. Je zou kunnen zeggen dat we meer bacterie dan mens zijn. Toch weten we maar weinig over de microbiologische wereld – misschien omdat we nooit bescheiden genoeg geweest zijn om onszelf zo klein te maken dat we het belang van het leven op die schaal konden zien. We hebben een hoofdzakelijk angstige relatie ontwikkeld met micro-organismen als bacteriën[\[1]](https://decolonisingdesign.hetnieuweinstituut.nl/essays/baarmoederecologie-dekoloniale-geboorte#_ftn1), virussen, schimmels en algen. We zijn ze als een bedreiging gaan zien.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Hoewel sommigen dat inderdaad zijn, is het heel goed mogelijk dat juist de oorlog tegen microben[\[2]](https://decolonisingdesign.hetnieuweinstituut.nl/essays/baarmoederecologie-dekoloniale-geboorte#_ftn2) bijdraagt aan onze slechte gezondheid. Die strijd stimuleert miljardenindustrieën die huishoudelijke producten en antibiotica op de markt brengen die schadelijk zijn voor onze longen, land en waterwegen en die het hele bacteriële leven aan onze leefomgeving onttrekken. Zoals het hedendaagse enthousiasme voor microbioomonderzoek[\[3]](https://decolonisingdesign.hetnieuweinstituut.nl/essays/baarmoederecologie-dekoloniale-geboorte#_ftn3) lijkt aan te tonen, zou het zomaar kunnen dat deze ‘gevaarlijke’ levensvormen onze gezondheid eerder beschermen. Zo wordt er tegenwoordig veel gesproken over het belang van de darmmicrobiota[\[4]](https://decolonisingdesign.hetnieuweinstituut.nl/essays/baarmoederecologie-dekoloniale-geboorte#_ftn4), het bacteriële ecosysteem dat in ons darmkanaal leeft.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Het is gebleken dat de samenstelling van dit microbioom invloed heeft op onze spijsvertering, immuunreacties, aanleg voor stress en andere ziekten, evenals op bepaalde hersenfuncties. Het heeft diepgaande invloed. De verschillende soorten microbiële gemeenschappen die onze innerlijke landen bewonen, doen onze gezondheid ofwel goed, of ze oefenen er anderszins invloed op uit; het is dus van wezenlijk belang dat we die ecologie koesteren.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Door de eeuwen heen hebben talloze culturen de darmen als een soort aanvullend brein beschouwd. De meest uiteenlopende Inheemse culturen en spirituele levenswegen hameren op de medicinale functie van goed eten, waarmee ze ook zouden kunnen bedoelen dat je jouw communities van micro-organismen op de juiste manier moet voeden zodat de harmonie bewaard blijft.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+> Een evenwichtig samenwonen van de verschillende levensvormen in ons wezen-zijn draagt bij aan ons welzijn. Als jij hen helpt, helpen zij jou.
+
+We krijgen ons microbioom in eerste instantie van onze moeder mee, in het geboortekanaal tijdens de bevalling en in borstvoeding. De moeder speelt een sleutelrol in de ontwikkeling van het microbioom van het kind. Het is van essentieel belang om in te zien dat ouderlijke overdracht meer is dan genetisch geheugen. De moeder geeft het kind namelijk nog een andere laag mee, een bacteriologisch geheugen.
